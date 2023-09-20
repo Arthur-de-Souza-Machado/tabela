@@ -17,10 +17,12 @@ table, th, td {
 
 th{
   background-color: rgb(104, 99, 99);
+  padding: 5px;
 }
 
 td{
   background-color: rgb(194, 192, 192);
+  text-align: center;
 }
 
 .tabela{
